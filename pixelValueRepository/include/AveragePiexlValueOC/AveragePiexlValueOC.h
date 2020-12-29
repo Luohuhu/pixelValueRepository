@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-using namespace cv;
+
 @interface AveragePiexlValueOC : NSObject
 - (double) PixelValueOC: (UIImage *) image;
 @end
