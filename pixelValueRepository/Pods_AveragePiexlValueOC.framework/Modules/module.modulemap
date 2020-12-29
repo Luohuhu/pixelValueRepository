@@ -1,0 +1,6 @@
+framework module Pods_AveragePiexlValueOC {
+  umbrella header "Pods-AveragePiexlValueOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
